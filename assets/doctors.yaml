@@ -1,0 +1,43 @@
+doctors:
+  - name: "Dr. John Doe"
+    specialization: "Cardiologist"
+    rating: 4.5
+    imageUrl: "assets/images/doctor1.jpg"
+    description: "Dr. John Doe has over 10 years of experience in cardiology."
+    experience: 10
+    education: "MBBS, MD"
+  - name: "Dr. Jane Smith"
+    specialization: "Dermatologist"
+    rating: 4.0
+    imageUrl: "assets/images/doctor2.jpg"
+    description: "Dr. Jane Smith is a well-known dermatologist with 8 years of experience."
+    experience: 8
+    education: "MBBS, MD"
+  - name: "Dr. Richard Roe"
+    specialization: "Neurologist"
+    rating: 4.7
+    imageUrl: "assets/images/doctor3.jpg"
+    description: "Dr. Richard Roe specializes in neurology with 12 years of experience."
+    experience: 12
+    education: "MBBS, MD"
+  - name: "Dr. Anne Johnson"
+    specialization: "Pediatrician"
+    rating: 4.3
+    imageUrl: "assets/images/doctor4.jpg"
+    description: "Dr. Anne Johnson has 9 years of experience as a pediatrician."
+    experience: 9
+    education: "MBBS, MD"
+  - name: "Dr. Mary Brown"
+    specialization: "Gynecologist"
+    rating: 4.2
+    imageUrl: "assets/images/doctor5.jpg"
+    description: "Dr. Mary Brown is an experienced gynecologist with 11 years of experience."
+    experience: 11
+    education: "MBBS, MD"
+  - name: "Dr. Richard Brown"
+    specialization: "Gynecologist"
+    rating: 4.5
+    imageUrl: "assets/images/doctor5.jpg"
+    description: "Dr. Richard Brown has over 13 years of experience in gynecology."
+    experience: 13
+    education: "MBBS, MD"
