@@ -1,0 +1,38 @@
+# # patients.yml
+# patients:
+#   - name: John Doe
+#     age: 30
+#     photo: assets/patient1.jpg
+#     description: "Regular check-up"
+#   - name: Jane Smith
+#     age: 25
+#     photo: assets/patient2.jpg
+#     description: "Follow-up on test results"
+#   - name: Michael Brown
+#     age: 40
+#     photo: assets/patient3.jpg
+#     description: "Consultation for chronic pain"
+#   - name: Emily Davis
+#     age: 35
+#     photo: assets/patient4.jpg
+#     description: "Yearly physical examination"
+
+
+# patients.yml
+patients:
+  - name: John Doe
+    age: 30
+    photo: assets/patient1.jpg
+    description: "Regular check-up"
+  - name: Jane Smith
+    age: 25
+    photo: assets/patient2.jpg
+    description: "Follow-up on test results"
+  - name: Michael Brown
+    age: 40
+    photo: assets/patient3.jpg
+    description: "Consultation for chronic pain"
+  - name: Emily Davis
+    age: 35
+    photo: assets/patient4.jpg
+    description: "Yearly physical examination"
