@@ -1,16 +1,14 @@
 # doctors_flutter_application
 
-A new Flutter project.
+**SAPDOS Flutter Application**
 
-## Getting Started
+This Flutter project, called SAPDOS, showcases an application designed for both doctors and patients. The data for both doctors and patients is passed through `YAML` files.
 
-This project is a starting point for a Flutter application.
+You can view a demo video of the SAPDOS app and some output screenshots on the GitHub repository.i.e. [screenshots_and_video](https://github.com/Pratik9525/doctors_flutter_application/tree/feature_SAPDOS_app_yaml/screenshots_and_video)
 
-A few resources to get you started if this is your first Flutter project:
+In the application, I've included a UI called the `Select ID Screen`. This screen serves to demonstrate the functionality of both the Doctor Screen and the Patient Screen. You can find the code for this UI here 
+[select_id_screen](https://github.com/Pratik9525/doctors_flutter_application/blob/feature_SAPDOS_app_yaml/lib/login/screens/select_id_screen.dart )
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Additionally, in the payment method, I've added two extra modes: [Cash](https://github.com/Pratik9525/doctors_flutter_application/blob/feature_SAPDOS_app_yaml/screenshots_and_video/Patient_Screen_05_04.png) and [Paypal](https://github.com/Pratik9525/doctors_flutter_application/blob/feature_SAPDOS_app_yaml/screenshots_and_video/Patient_Screen_05_03.png).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Feel free to explore the project and its features!
